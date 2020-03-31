@@ -1,7 +1,3 @@
-                                            
-  //File Name: agc015_B.cpp
-  //Created Time: 2017年06月12日 星期一 21时51分31秒
-                                   
 #include <bits/stdc++.h>
 #define LL long long
 using namespace std;
