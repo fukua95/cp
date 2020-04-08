@@ -4,8 +4,9 @@ My solutions to the problems of Atcoder.
 
 ---
 题解  
-### abc160  
+### abc161  
 d 队列  
+f 简单数论  
 ### abc160  
 f dp  
 ### abc159 
@@ -26,7 +27,7 @@ panasonic2020|o|o|o|o||
 
  Round    | A      | B      | C      | D      | E      | F
 :--------:|:------:|:------:|:------:|:------:|:------:|:------:
-abc161|o|o|o|o||
+abc161|o|o|o|o||o
 abc160|o|o|o|o|o|o 
 abc159|o|o|o|o|o|o
 abc120|o|o|o|o||
